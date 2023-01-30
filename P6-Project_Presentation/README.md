@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Travel Buddy Presentation.pdf](https://github.com/GabrielleR4/liftoff-assignments/files/10540182/Travel.Buddy.Presentation.pdf)
